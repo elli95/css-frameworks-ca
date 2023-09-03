@@ -33,13 +33,15 @@
 This is the css frameworks course assignment, made during my second year of education at noroff, autumn 2023.
 This website shows three pages (Authentication page, Feed Page and Profile page) created using Bootstrap and SASS.
 
-View the live version [here]()
+<!-- View the live version [here]() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=scss)](https://sass-lang.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,10 +95,12 @@ All image editing was done with [paint.net](https://www.getpaint.net/) and [Fast
 
 All images outside the files within the assignment were taken from [Unsplash](https://unsplash.com/).
 
+[Bootstrap](https://getbootstrap.com/).
+
 Icons were sourced from [Font Awesome](https://fontawesome.com).
 
 Information and inspiration with the creation of the codes came from Noroff's curriculum and various websites linked below.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[project-screenshot]: images/portfolio-screenshot.webp
+[project-screenshot]: images/css-frameworks-ca.webp
